@@ -13,7 +13,7 @@ Generates Newton fractals for the function z^n - 1 using ISPC and C++
 
 1. **Compile the ISPC file**
 ```bash
-ispc newton.iscp -o newton.obj
+ispc newton.ispc -o newton.obj
 ```
 
 2. **Compile C++ and link with ISPC object**
