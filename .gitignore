@@ -1,0 +1,15 @@
+# ISPC / C++ build artifacts
+*.obj
+*.exe
+*.o
+*.log
+
+# Generated images
+*.png
+
+.vscode/
+ispc-v1.28.2-windows/
+
+main_debug.cpp
+newton_debug.iscp
+
