@@ -11,5 +11,5 @@
 ispc-v1.28.2-windows/
 
 main_debug.cpp
-newton_debug.iscp
+newton_debug.ispc
 
